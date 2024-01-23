@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 - Use ASP.NET to build a simple API
-- Use RestController classes to map HTTP requests to class methods
+- Use RestController classes to map HTTP requests to class methods 
 
 ## Instructions
 
